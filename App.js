@@ -1,5 +1,3 @@
-import { StyleSheet, Text, View } from "react-native"
-import { StatusBar } from "expo-status-bar"
 import { useFonts } from "expo-font"
 import ShopNavigator from "./src/navigation/ShopNavigator"
 
