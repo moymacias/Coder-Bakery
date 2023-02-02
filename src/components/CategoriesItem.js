@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     flex: 1,
     borderRadius: 10,
     shadowColor: "black",
-    shadowOpacity: 0.5,
+    shadowOpacity: 0.2,
     shadowOffset: { width: 0, height: 2 },
     shadowRadius: 10,
     elevation: 5,
